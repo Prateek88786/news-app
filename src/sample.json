@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Biden cannot escape Trump's shadow in border crisis",
+    "description": "To the anger of his supporters, the US president is ramping up deportation and expanding the wall.",
+    "url": "http://www.bbc.co.uk/news/67033249",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C7AC/production/_131361115_gettyimages-1710077609.jpg",
+    "publishedAt": "2023-10-09T14:22:18.2822904Z",
+    "content": "The recent surge of migrants crossing the US-Mexico border has put President Joe Biden in a difficult, politically threatening bind. \r\nState and local Democratic leaders who should be among his close… [+6517 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Newsom vetoes California's caste discrimination bill",
+    "description": "The California governor says the bill is unnecessary because of existing discrimination laws.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67055579",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5287/production/_131372112_gettyimages-1252544923.jpg",
+    "publishedAt": "2023-10-09T14:07:10.9846813Z",
+    "content": "California's Democratic Governor Gavin Newsom has vetoed a bill banning caste discrimination. \r\nAdvocates had argued the bill would protect people of South Asian descent who had been treated unfairly… [+2298 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Coin hoard could be linked to 1692's Glencoe Massacre",
+    "description": "The 17th Century coins were found hidden beneath a fireplace at the site of a ruined house.",
+    "url": "http://www.bbc.co.uk/news/uk-scotland-highlands-islands-67031984",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/784C/production/_131369703_coin1.jpg",
+    "publishedAt": "2023-10-09T13:37:18.2963898Z",
+    "content": "Coins found under a fireplace may have been hidden there by a victim of the infamous Massacre of Glencoe, according to archaeologists.\r\nAlmost 40 members of Clan MacDonald of Glencoe were killed in F… [+4441 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "At least nine Americans killed in Hamas attack on Israel",
+    "description": "A spokesperson for the US government confirms the deaths after Hamas militants launched an attack.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67056761",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E83/production/_115651730_breaking-promo-976.png",
+    "publishedAt": "2023-10-09T13:37:15.9844647Z",
+    "content": "At least nine Americans have been killed in Israel after Hamas militants launched an attack on the country.\r\n\"We extend our deepest condolences to the victims and to the families of all those affecte… [+551 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nobel economics prize awarded to Claudia Goldin for work on gender pay gap",
+    "description": "American Claudia Goldin is only the third woman to receive the prestigious economics prize.",
+    "url": "http://www.bbc.co.uk/news/business-67045408",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4778/production/_131369281_2f36f5a3-c6f9-430c-8d8e-dfff8e6f8144.jpg",
+    "publishedAt": "2023-10-09T12:07:25.1403226Z",
+    "content": "This year's Nobel economics prize has been awarded to Claudia Goldin, an American economic historian, for her work on women's employment and pay.\r\nProf Goldin's research uncovered key drivers behind … [+1539 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Afghanistan earthquake: More than 1,000 dead as villagers dig for survivors",
+    "description": "Villagers are searching through what is left of their homes with shovels and bare hands.",
+    "url": "http://www.bbc.co.uk/news/world-asia-67052252",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2979/production/_131371601_afghanquake.png",
+    "publishedAt": "2023-10-09T12:07:23.6719379Z",
+    "content": "Rescuers are digging for survivors of a powerful earthquake that flattened whole villages in Afghanistan, killing more than 1,000 people.\r\nThe 6.3-magnitude quake struck Saturday morning in Herat pro… [+3334 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Oil prices rally on fear of Middle East supply disruptions",
+    "description": "West Texas Intermediate and Brent crude prices jumped by 4% in Asian trading.",
+    "url": "http://www.bbc.co.uk/news/business-67050612",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DB70/production/_131367165_gettyimages-73375922.jpg",
+    "publishedAt": "2023-10-09T03:37:15.7654932Z",
+    "content": "Oil prices jumped by 4% on Monday on concerns that the situation in Israel and Gaza could disrupt output from the Middle East.\r\nWest Texas Intermediate (WTI), the benchmark for US oil, rose to more t… [+2518 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Who will actually vote for Robert F Kennedy Jr as an independent candidate?",
+    "description": "Part of a Democratic dynasty, Mr Kennedy is expected to announce an independent bid for president.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67035600",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1802A/production/_131364389_kennedy1.jpg",
+    "publishedAt": "2023-10-09T02:37:15.8750881Z",
+    "content": "Robert F Kennedy Jr - the anti-vaccination activist, environmental lawyer and member of America's most famous political family - is expected to announce on Monday that he's running for president as a… [+6964 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Bavaria election results: Scholz coalition dealt a blow",
+    "description": "Conservative and right-wing gains in Bavaria and Hesse will be felt across Germany.",
+    "url": "http://www.bbc.co.uk/news/world-europe-67049498",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2AC2/production/_131364901_gettyimages-1713272689.jpg",
+    "publishedAt": "2023-10-08T20:37:16.800718Z",
+    "content": "After key regional elections on Sunday in Germany conservatives and right-wing populists are celebrating. \r\nBut the results are a blow for all three parties in Chancellor Olaf Scholz' left-wing-led n… [+4114 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Joe Biden sends military aid to Israel after Hamas attack",
+    "description": "The US president says he condemns the \"unprecedented and appalling assault\" by Hamas militants.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67049196",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16F72/production/_131366049_0d027e627c7f23234566f82e86f7619a08cddf5a0_0_5472_36481000x667.jpg",
+    "publishedAt": "2023-10-08T18:22:20.4251099Z",
+    "content": "President Biden is sending additional military assistance to Israel following the Hamas attack on southern Israel.\r\nThe White House said Mr Biden had spoken to Israeli Prime Minister Benjamin Netanya… [+2474 chars]"
+    }
+    ]
+    }

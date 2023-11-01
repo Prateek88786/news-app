@@ -1,0 +1,22 @@
+nav{
+  background-color: #e3f2fd;
+}
+#news{
+  margin-left: 25px;
+}
+#newsbox{
+  margin-top: 80px; 
+  margin-bottom: 30px; 
+}
+.row{
+  margin-top: 20px;
+}
+#topheadlines{
+  margin-bottom: 27px;
+}
+#category:active{
+  border: none;
+}
+#category option{
+  background-color: #e3f2fd;
+} 
