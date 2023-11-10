@@ -5,8 +5,10 @@ To run this application follow the following steps -:
 4. Open the terminal with the directory news-app.
 5. Run the command "npm install react-scripts" in the terminal.
 6. Wait for the installation to complete.
-7. Run the command "npm start" in the terminal.
-8. The application will open in your browser automatically in sometime.
-9. If it doesn,t open on its own, go to the browser and type "localhost:3000".
+7. Run the command "npm install react-router-dom" in the terminal.
+8. Wait for the installation to complete.
+9. Run the command "npm start" in the terminal.
+10. The application will open in your browser automatically in sometime.
+11. If it doesn,t open on its own, go to the browser and type "localhost:3000".
 
 Happy Reading! Safe Surfing! Joyful Life!
