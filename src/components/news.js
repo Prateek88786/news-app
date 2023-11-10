@@ -10,16 +10,24 @@ export default function News(props){
   const [loading,setLoading]=useState(false)
   const [page,setPage]=useState(1)
   const [totalArticles,setTotalArticles]=useState(0)
-  
 const update = useCallback(async () => {
-    let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=2bc62b0048b14ccb8375015fe1550b34&page=${page}&pageSize=${props.pageSize}`;
+  let url=""
+    if(props.q==null || props.q===""){
+      url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=2bc62b0048b14ccb8375015fe1550b34&page=${page}&pageSize=${props.pageSize}`;
+    }
+    else{
+      url = `https://newsapi.org/v2/everything?q=${props.q}&apiKey=2bc62b0048b14ccb8375015fe1550b34&page=${page}&pageSize=${props.pageSize}`;
+
+    }
+    console.log(url)
+    
     setLoading(true);
     let data = await fetch(url);
     let parsedData = await data.json();
     setArticle(parsedData.articles);
     setTotalArticles(parsedData.totalResults);
     setLoading(false);
-  }, [props.country, props.category, page, props.pageSize]);
+  }, [props.country, props.category, page, props.pageSize,props.q]);
 
 useEffect(() => {
   const fetchData = async () => {
