@@ -9,6 +9,6 @@ To run this application follow the following steps -:
 8. Wait for the installation to complete.
 9. Run the command "npm start" in the terminal.
 10. The application will open in your browser automatically in sometime.
-11. If it doesn,t open on its own, go to the browser and type "localhost:3000".
+11. If it doesn't open on its own, go to the browser and type "localhost:3000".
 
 Happy Reading! Safe Surfing! Joyful Life!
