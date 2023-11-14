@@ -19,7 +19,6 @@ const update = useCallback(async () => {
       url = `https://newsapi.org/v2/everything?q=${props.q}&apiKey=2bc62b0048b14ccb8375015fe1550b34&page=${page}&pageSize=${props.pageSize}`;
 
     }
-    console.log(url)
     
     setLoading(true);
     let data = await fetch(url);
