@@ -11,7 +11,7 @@ function navbar(props){
     return (
       <div>
         <nav className="navbar navbar-expand-lg" style={{backgroundColor:'#e3f2fd'}}>
-          <div className="container-fluid">
+          <div className="container-fluid w-100">
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
             </button>
